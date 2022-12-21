@@ -722,7 +722,7 @@ EDP = (1/2) * RD * Area * (G+S)
 
 Το γράφημα (ίδιο για όλα τα bechmarks) :
 
-![Peak powerpng](file://C:\Users\Jay\Desktop\ERGASIA_MASTER\Ergasia%203\Peak%20power.png?msec=1671584816856)
+![Peak powerpng](https://github.com/DepressedGoat/Project-3/blob/main/Peak%20power.png)
 
 ### Ερώτημα 3:
 
